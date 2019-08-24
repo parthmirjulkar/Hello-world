@@ -1,6 +1,5 @@
-before starting my work...
-My work...
-wallah world by prasad
-hello parth!!!
-how are you?
-after edit work...
+void main()
+{
+   printf("hello user");
+}
+
