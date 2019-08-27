@@ -1,5 +1,5 @@
 void main()
 {
-   printf("hello user");
+   print("hello user");
 }
 hello wallha!!!
